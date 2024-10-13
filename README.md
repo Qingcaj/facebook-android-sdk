@@ -1,3 +1,4 @@
+build.sh
 Facebook SDK for Android
 ========================
 [![Run testsuite with gradle](https://github.com/facebook/facebook-android-sdk/actions/workflows/verifybuild.yml/badge.svg)](https://github.com/facebook/facebook-android-sdk/actions/workflows/verifybuild.yml)
